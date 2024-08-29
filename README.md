@@ -1,4 +1,16 @@
-Rethink Editor
+"ServerScriptService": {
+  "ThreaderServer": {
+    "$path": "vendors/Threader/test/Server"
+  }
+},
+
+"StarterPlayer": {
+  "StarterPlayerScripts": {
+    "ThreaderClient": {
+      "$path": "vendors/Threader/test/Client"
+    }
+  }
+}Rethink Editor
 
 <br>
 
